@@ -1,0 +1,35 @@
+name: Navid,
+age: 23,
+height: 1,80,
+adress:
+  city: "Søborg",
+  street: "Christianehøj 88"
+  streetInfo:
+    floor: "room floor",
+             door: "to the right"
+sport: basketball
+active: true
+
+
+Backpack:
+  - Basketball
+  - Knife
+  - Gun
+  - Sushi
+  - { bowl of fruit: apple, oranges, grapes }
+
+madpakke: [ rugbrødsmad, juicebrik, proteinshake, æble ]
+
+ArrayMedObjekter:
+  - Navid: 23
+    Ziba: 21
+    Naina: 20
+  - Navid: Basketbold
+    Ziba: Gym
+    Naina: Ferie
+
+longtext: >
+  Lægger skys ned i pungen, lommer blevet så tunge at jeg knap nok kan gå
+  jeg prøver ikke gå i stå, men så mange ting jeg gerne vil nå.
+  
+
